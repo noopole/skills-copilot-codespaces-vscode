@@ -23,5 +23,5 @@ function skillsMembers() {
         return prev;
     }, []);
 
-    console.log(skills);
+    console.log(skills)
 }
